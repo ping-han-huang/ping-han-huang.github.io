@@ -1,4 +1,4 @@
-#R Demo for FDA fPCA
+#R Demo for FDA
 ##This R demonstration is part of the presentation held by Ping-Han Huang.
 ##The code used is based on the following source:
 ##https://www4.stat.ncsu.edu/~staicu/FDAtutorial/index.html
