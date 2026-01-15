@@ -2185,8 +2185,15 @@ button,
     #banner .image {
       max-height: 35vh; } }
 
-#banner .headshot {
-  max-width: 120px;   /* adjust: 220–350px works well */
+/* headshot: small and responsive */
+#banner .image { width: auto; margin-left: 2em; }
+#banner .image img.headshot {
+  max-width: 100px; 
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0.375em;
+  display: block;
 }
 
 /* Footer */
