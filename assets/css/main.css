@@ -2187,7 +2187,7 @@ button,
 
 #banner .headshot {
   max-width: 200px;   /* adjust: 220–350px works well */
-  width: 100%;
+  width: 50%;
   height: auto;
 }
 
