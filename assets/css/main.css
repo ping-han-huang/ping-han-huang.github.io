@@ -2186,7 +2186,7 @@ button,
       max-height: 35vh; } }
 
 #banner .headshot {
-  max-width: 300px;   /* adjust: 220–350px works well */
+  max-width: 200px;   /* adjust: 220–350px works well */
   width: 100%;
   height: auto;
 }
