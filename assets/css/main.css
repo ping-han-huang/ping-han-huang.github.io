@@ -2185,6 +2185,12 @@ button,
     #banner .image {
       max-height: 35vh; } }
 
+#banner .headshot {
+  max-width: 300px;   /* adjust: 220–350px works well */
+  width: 100%;
+  height: auto;
+}
+
 /* Footer */
 #footer .copyright {
   color: #9fa3a6;
