@@ -2186,9 +2186,7 @@ button,
       max-height: 35vh; } }
 
 #banner .headshot {
-  max-width: 200px;   /* adjust: 220–350px works well */
-  width: 50%;
-  height: auto;
+  max-width: 120px;   /* adjust: 220–350px works well */
 }
 
 /* Footer */
